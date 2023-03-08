@@ -16,6 +16,6 @@ public class Main {
 		int[] arr = {2, 4, 1, 2, 1, 2, 4, 5};
 
 		int[] distinct = removeDuplicates(arr);
-		System.out.println(Arrays.toString(distinct));
+		System.out.println(""+Arrays.toString(distinct));
 	}
 }
